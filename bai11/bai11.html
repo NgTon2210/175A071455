@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+    <link rel="stylesheet" href="bai11.css">
+</head>
+<body>
+    <div class="container">
+        <h2>Đăng nhập</h2>
+        <table>
+                <form action="">
+                       <tr>
+                           <td>
+                               <label for="">Mã người dùng: </label>
+                           </td>
+                           <td>
+                               <input type="text" id="field1" value="" >
+                           </td>
+                       </tr>
+                       <tr>
+                           <td>
+                               <label for="">Mật khẩu: </label>
+                           </td>
+                           <td>
+                               <input type="password">
+                           </td>
+                       </tr>
+                       <tr>
+                          <td colspan="2" style="text-align: center;">
+                              <button type="button" id="layout" onclick="myFunction()" >Đồng ý</button>
+                          </td>
+                       </tr>
+                       <tr>
+                           <td colspan="2">
+                              <input type="text" id="field2">
+                           </td>
+                       </tr>
+                </form>
+        </table>
+
+    </div>
+ <script>
+function myFunction() {
+document.getElementById("field2").value = document.getElementById("field1").value;
+}
+</script>
+
+          
+</body>
+</html>

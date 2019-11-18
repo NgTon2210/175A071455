@@ -1,0 +1,48 @@
+body {
+    margin: 0px;
+}
+
+.wrapper {
+    width: 40%;
+    margin: auto;
+}
+
+.header h1 {
+    color: #006600;
+    text-align: center;
+}
+
+.header h3 {
+    color: #0000ff;
+}
+
+.header p {
+    font-weight: bold;
+}
+
+.content .name {
+    text-align: center;
+    color: #ff3399;
+    background: #fecffd;
+}
+
+.content .text-content {
+    background: #ffffcc;
+    margin-top: 30px;
+}
+
+.text-content .text1 {
+    padding-top: 30px;
+    text-align: center;
+    color: blue;
+}
+
+.text-content .text2 {
+    text-align: center;
+    color: rgb(148, 109, 25);
+}
+
+.text-content .text3 {
+    color: #006600;
+    text-align: center;
+}

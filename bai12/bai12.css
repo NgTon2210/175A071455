@@ -1,0 +1,13 @@
+*
+{
+    margin: 0px;
+    padding: 0px;
+}
+table, td
+{
+    border: 1px solid black;
+    background: rgb(205, 247, 146);
+    color: rgb(28, 44, 5);
+    padding: 5px 10px;
+    width: 700px;
+}

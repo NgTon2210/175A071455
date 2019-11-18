@@ -1,0 +1,27 @@
+*
+{
+    margin: 0px;
+    padding: 0px;
+}
+h2
+{
+    color: #cc0033;
+    margin: 25px 0px;
+}
+table, th, td
+{
+    border: 1px solid pink;
+    text-align: center;
+    padding: 3px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+table tr th 
+{
+    color: white;
+    background: #CC0033;
+    font-weight: bold;
+}
+td.td1
+{
+    color: #CC0033;
+}

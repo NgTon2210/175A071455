@@ -1,0 +1,24 @@
+div {
+    width: 80%;
+    margin: auto;
+}
+
+h1 {
+    text-align: center;
+}
+
+h3 {
+    padding-top: 10px;
+}
+
+p.p0 {
+    padding: 10px;
+}
+
+p.p1 {
+    text-align: center;
+}
+
+p.p2 {
+    text-align: center;
+}

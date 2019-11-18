@@ -1,0 +1,50 @@
+*
+{
+    padding: 0px;
+    margin: 0px;
+}
+body
+{
+    font-family: 'Times New Roman', Times, serif;
+}
+.contain
+{
+    
+    display: flex;
+    padding: 30px 15px;
+    background: #FFEDCA;
+    width: 70%;
+}
+.contain .img
+{
+    padding: 5px 30px;
+}
+.contain .table h2 
+{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    color: #CC6600;
+}
+table
+{
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+  
+}
+table tr.tr1
+{
+    background: white;
+}
+table tr th
+{
+    background: #CC6600;
+    color: white;
+}
+table tr td.th2
+{
+    width: 300px;
+}
+table, td, th
+{
+    border: 1px solid rgb(32, 128, 53);
+}

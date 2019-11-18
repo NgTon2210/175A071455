@@ -1,0 +1,29 @@
+*
+{
+    margin: 0px;
+    padding: 0px;
+}
+.content
+{
+    height: 885px;
+    position: relative;
+    background-color: #A06D21 ;
+    padding: 20px 10px;
+    text-align: center;
+}
+h2 
+{
+    color: #FFCC00;
+}
+img
+{
+    margin-top: 20px;
+    width: 800px;
+    height: 530px;
+}
+.p1
+{
+    position: absolute;
+    top: 65px;
+    color: white;
+}

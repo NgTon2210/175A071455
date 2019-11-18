@@ -1,0 +1,63 @@
+*
+{
+    margin: 0px;
+    padding: 0px;
+}
+.create-cv
+{
+    width: 800px;
+    height:auto;
+    margin: auto;
+    background: rgb(241, 238, 238);
+    display: flex;
+}
+.create-cv .information
+{
+    width: 310px;
+    background: rgb(67, 67, 189);
+    padding-top: 20px;
+}
+.create-cv .information .image
+{
+    width: 255px;
+    height: auto;
+    margin: auto;
+}
+.create-cv .information .image h2 
+{
+    margin-top: 10px;
+    color: white;
+}
+.create-cv .information .phone,.target
+{
+    padding: 10px;
+    
+}
+.create-cv  .icon i
+{
+    color:rgb(85, 85, 243);
+    font-size: 22px;
+    width: 44px;
+    height: 44px;
+    background:white;
+    text-align: center;
+    line-height: 44px;
+}
+.sp1
+{
+    color: white;
+    font-size: 22px;
+    font-weight: bold;
+}
+
+.create-cv .skill
+{
+    padding: 20px;
+}
+.sp2
+{
+    color:rgb(85, 85, 243);
+    font-size: 22px;
+    font-weight: bold;
+    margin-left: 10px;
+}

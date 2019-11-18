@@ -1,0 +1,32 @@
+*
+{
+    margin: 0px;
+    padding: 0px;
+}
+.content
+{
+    text-align: center;
+    height: 1000px;
+    background-image: url('img/anh2.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding:10px 15px;
+}
+h2
+{
+    color: #008888;
+    
+}
+.content .p1
+{
+    background: #339999;
+    color: white;
+    font-style: italic;
+    font-weight: bold;
+    margin-top: 20px;
+}
+.content .p2
+{
+    margin-top: 20px;
+    color: #008888 ;
+}

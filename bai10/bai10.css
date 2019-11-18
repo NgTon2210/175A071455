@@ -1,0 +1,40 @@
+*
+{
+    margin: 0px;
+    padding: 0px;
+}
+table, th, td
+{
+    border: 1px solid pink;
+    padding: 3px 25px;
+}
+td.td1
+{
+    text-align: right;
+    color: white;
+    background: #FF0000;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+}
+td.td2
+{
+    text-align: center;
+    background: #FFBBBB;
+    color: #FF0000;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 23px;
+}
+td.td-img
+{
+    width: 160px;
+}
+table
+{
+    width: 800px;
+}
+.td-2
+{
+    font-size: 16px;
+}
